@@ -2422,7 +2422,7 @@ body.is-menu-visible #menu {
       background: #fff;
       content: '';
       display: block;
-      height: 2px;
+      height: 0px;
       position: absolute;
       width: 100%; }
     #banner h2:before {
