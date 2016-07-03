@@ -2483,10 +2483,10 @@ body.is-menu-visible #menu {
     -webkit-pointer-events: none;
     -ms-pointer-events: none;
     pointer-events: none;
-    -moz-transition: opacity 3s ease-in-out;
-    -webkit-transition: opacity 3s ease-in-out;
-    -ms-transition: opacity 3s ease-in-out;
-    transition: opacity 3s ease-in-out;
+    -moz-transition: opacity 2s ease-in-out;
+    -webkit-transition: opacity 2s ease-in-out;
+    -ms-transition: opacity 2s ease-in-out;
+    transition: opacity 2s ease-in-out;
     -moz-transition-delay: 1.25s;
     -webkit-transition-delay: 1.25s;
     -ms-transition-delay: 1.25s;
