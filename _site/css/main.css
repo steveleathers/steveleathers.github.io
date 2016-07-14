@@ -2657,8 +2657,8 @@ body.is-mobile #main > header {
     #footer .locationfoot li {
       display: inline-block;
       line-height: 1em;
-      margin-left: 1em;
-      padding-left: 1em; }
+      margin-left: .5em;
+      padding-left: .5em; }
       #footer .locationfoot li:first-child {
         border-left: 0;
         margin-left: 0;
