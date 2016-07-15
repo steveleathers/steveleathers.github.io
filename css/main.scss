@@ -1792,12 +1792,13 @@ $baseurl: '{{ site.baseurl }}/images';
 			@include breakpoint(small) {
 				@include padding(3em, 2em);
 			}
-			
+
 		}
 
 		.locationfootsmall {
 			color: _palette(fg-light);
-			font-size: 0.65em;
+			font-size: 0.75em;
+			opacity: 0.75;
 			letter-spacing: _size(letter-spacing-alt);
 			list-style: none;
 			padding: 0;
