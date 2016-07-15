@@ -2654,6 +2654,8 @@ body.is-mobile #main > header {
     list-style: none;
     padding: 0;
     text-transform: uppercase; }
+    #footer .locationfoot p {
+      font-size: 0.8em; }
     #footer .locationfoot li {
       display: inline-block;
       line-height: 1em;
