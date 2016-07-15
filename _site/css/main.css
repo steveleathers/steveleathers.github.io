@@ -2647,6 +2647,41 @@ body.is-mobile #main > header {
           line-height: 1.65em;
           margin: 0;
           padding: 0.5em 0; } }
+    @media screen and (max-width: 980px) {
+      #footer .copyright {
+        padding: 4em 3em 2em 3em ; } }
+    @media screen and (max-width: 736px) {
+      #footer .copyright {
+        padding: 3em 2em 1em 2em ; } }
+  #footer .locationfootsmall {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 0.65em;
+    letter-spacing: 0.225em;
+    list-style: none;
+    padding: 0;
+    text-transform: uppercase; }
+    #footer .locationfootsmall li {
+      font-size: 0.65em;
+      opacity: 0.5;
+      display: inline-block;
+      line-height: 1em;
+      margin-left: .33em;
+      padding-left: .33em; }
+      #footer .locationfootsmall li:first-child {
+        border-left: 0;
+        margin-left: 0;
+        padding-left: 0; }
+      #footer .locationfootsmall li a {
+        color: inherit; }
+        #footer .locationfootsmall li a:hover {
+          color: #fff; }
+      @media screen and (max-width: 480px) {
+        #footer .locationfootsmall li {
+          border: 0;
+          display: block;
+          line-height: 1.65em;
+          margin: 0;
+          padding: 0.5em 0; } }
   #footer .locationfoot {
     color: rgba(255, 255, 255, 0.5);
     font-size: 0.8em;
@@ -2654,9 +2689,6 @@ body.is-mobile #main > header {
     list-style: none;
     padding: 0;
     text-transform: uppercase; }
-    #footer .locationfoot p {
-      font-size: 0.65em !important;
-      opacity: 0.5; }
     #footer .locationfoot li {
       display: inline-block;
       line-height: 1em;
