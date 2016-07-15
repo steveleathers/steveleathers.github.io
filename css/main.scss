@@ -1794,7 +1794,8 @@ $baseurl: '{{ site.baseurl }}/images';
 			padding: 0;
 			text-transform: uppercase;
 			p{
-				font-size: 0.65em;
+				font-size: 0.65em !important;
+				opacity: 0.5;
 			}
 			li {
 				display: inline-block;
