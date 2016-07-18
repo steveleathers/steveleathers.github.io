@@ -5,11 +5,3 @@ $('#mc-subscriber')
 
   }
 );
-$('#mc-subscriber')
-.click(
-  function(){
-    $('#mc-sub-hidden').show();
-    $('#mc-responses').show();
-
-  }
-);
