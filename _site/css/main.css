@@ -2744,3 +2744,6 @@ body.is-mobile.landing .wrapper.style4 {
   background-size: cover; }
 body.is-mobile.landing #footer {
   background-color: #1d242a; }
+
+#mc-sub-hidden {
+  display: none; }
