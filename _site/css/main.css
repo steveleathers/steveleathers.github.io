@@ -2747,3 +2747,10 @@ body.is-mobile.landing #footer {
 
 #mc-sub-hidden {
   display: none; }
+
+#mc_embed_signup .asterisk {
+  color: #e85c41;
+  font-size: 150%;
+  font-weight: normal;
+  position: relative;
+  top: 5px; }
