@@ -1923,6 +1923,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 #mc-sub-hidden{
 	display:none;
+	float:left;
 }
 #mc_embed_signup .asterisk {color:#c16532; font-size:150%; font-weight:normal; position:relative; top:5px;}
 label #mce-EMAIL{
@@ -1930,6 +1931,5 @@ label #mce-EMAIL{
 	display:inline-block;
 }
 #mc_embed_signup{
-	float:left;
 	display:inline-block;
 }

@@ -2746,7 +2746,8 @@ body.is-mobile.landing #footer {
   background-color: #1d242a; }
 
 #mc-sub-hidden {
-  display: none; }
+  display: none;
+  float: left; }
 
 #mc_embed_signup .asterisk {
   color: #c16532;
@@ -2760,5 +2761,4 @@ label #mce-EMAIL {
   display: inline-block; }
 
 #mc_embed_signup {
-  float: left;
   display: inline-block; }
