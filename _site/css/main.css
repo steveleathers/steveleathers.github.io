@@ -2756,4 +2756,9 @@ body.is-mobile.landing #footer {
   top: 5px; }
 
 label #mce-EMAIL {
-  float: left; }
+  float: left;
+  display: inline-block; }
+
+#mc_embed_signup {
+  float: left;
+  display: inline-block; }
