@@ -1924,4 +1924,7 @@ $baseurl: '{{ site.baseurl }}/images';
 #mc-sub-hidden{
 	display:none;
 }
-#mc_embed_signup .asterisk {color:#c16532; font-size:150%; font-weight:normal; position:relative; top:5px;}    
+#mc_embed_signup .asterisk {color:#c16532; font-size:150%; font-weight:normal; position:relative; top:5px;}
+label #mce-EMAIL{
+	float:left;
+}

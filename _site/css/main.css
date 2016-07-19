@@ -2754,3 +2754,6 @@ body.is-mobile.landing #footer {
   font-weight: normal;
   position: relative;
   top: 5px; }
+
+label #mce-EMAIL {
+  float: left; }
