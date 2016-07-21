@@ -1550,7 +1550,8 @@ ul {
   ul.actions {
     cursor: default;
     list-style: none;
-    padding-left: 0; }
+    padding-left: 0;
+    display: inline-block; }
     ul.actions li {
       display: inline-block;
       padding: 0 1.5em 0 0;
@@ -2756,9 +2757,5 @@ body.is-mobile.landing #footer {
   position: relative;
   top: 5px; }
 
-label #mce-EMAIL {
-  float: left;
-  display: inline-block; }
-
-#mc_embed_signup {
-  display: inline-block; }
+input #mc_embed_signup {
+  width: 200px; }
