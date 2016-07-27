@@ -16,7 +16,7 @@ It adds a whole new layer of options for me. Where I would have taken a car to g
 
 I found the whole system amazingly intuitive to figure out, and the bike was surprisingly comfortable to ride around. It's worth noting that these bikes are _heavy_, though. I think it's safe to say that my 4 mile ride from the Boise neighborhood to Industrial SE Portland would normally take me 15-20 minutes, and with BIKETOWN it took about 25.  
 
-![My first BIKETOWN trip]({{ site.url }}/images/BiketownTrip.jpg)  
+![My first BIKETOWN trip]({{ site.url }}/images/BiketownTrip.png)  
 
 But maybe that's a good thing! An extra 5 minutes isn't all that much for a quick trip like this. Sometimes it's nice to go slow. You get a chance to see things that you normally wouldn't, and there's no question that going slow is generally much safer.
 
