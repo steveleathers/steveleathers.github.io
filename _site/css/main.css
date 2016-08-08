@@ -2750,6 +2750,9 @@ body.is-mobile.landing #footer {
   display: none;
   float: left; }
 
+#mc-subscriber {
+  text-align: center; }
+
 #mc_embed_signup .asterisk {
   color: #c16532;
   font-size: 150%;
