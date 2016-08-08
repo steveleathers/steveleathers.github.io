@@ -1,7 +1,8 @@
 ---
 layout: page
-image:
+image: {{ site.url }}/images/biketown400x700.jpg
 title: Go By Bike(town)
+subtitle: New transportation systems mean more options for everyone
 ---
 
 At first, when the Portland bike share system BIKETOWN started rolling out stations all over town, I was dubious. I'm a cyclist, so obviously I like the idea of more bikes on the street, and I'm not particularly offended by BIKETOWN's loud branding. But I couldn't really think of a reason to _use_ BIKETOWN.

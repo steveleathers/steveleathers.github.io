@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Steve Leathers | Portland, Oregon Realtor</title>
+    <title>Steve Leathers | Realtor</title>
     <description>I&#39;m a Realtor at [Inhabit](http://www.inhabitportland.com), and I live in Portland, Oregon.
 </description>
     <link>http://steveleathers.com/</link>
     <atom:link href="http://steveleathers.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jul 2016 16:06:47 -0700</pubDate>
-    <lastBuildDate>Wed, 27 Jul 2016 16:06:47 -0700</lastBuildDate>
+    <pubDate>Mon, 08 Aug 2016 11:38:20 -0700</pubDate>
+    <lastBuildDate>Mon, 08 Aug 2016 11:38:20 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Go By Bike(town)</title>
+        <title></title>
         <description>&lt;p&gt;At first, when the Portland bike share system BIKETOWN started rolling out stations all over town, I was dubious. I’m a cyclist, so obviously I like the idea of more bikes on the street, and I’m not particularly offended by BIKETOWN’s loud branding. But I couldn’t really think of a reason to &lt;em&gt;use&lt;/em&gt; BIKETOWN.&lt;/p&gt;
 
 &lt;p&gt;That is, until I found by chain started slipping of my bike just about every time I used it. I took my bike in to be serviced, only to find that I’d need a new chainring, chain, and cassette. It would be about a week.&lt;/p&gt;
@@ -32,9 +32,9 @@
 
 &lt;p&gt;&lt;img src=&quot;http://steveleathers.com/images/DivisionCorral.jpg&quot; alt=&quot;Biketown Corral on Division Street in Southeast Portland&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 27 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://steveleathers.com/2016/07/27/go-by-bike.html</link>
-        <guid isPermaLink="true">http://steveleathers.com/2016/07/27/go-by-bike.html</guid>
+        <pubDate>Mon, 08 Aug 2016 11:38:20 -0700</pubDate>
+        <link>http://steveleathers.com/2016/08/08/2016-07-27-go-by-bike.html</link>
+        <guid isPermaLink="true">http://steveleathers.com/2016/08/08/2016-07-27-go-by-bike.html</guid>
         
         
       </item>
