@@ -1302,7 +1302,7 @@ textarea {
   input[type="email"]:focus,
   select:focus,
   textarea:focus {
-    box-shadow: 0 0 0 2px #21b2a6; }
+    box-shadow: 0 0 0 2px #786E66; }
 
 .select-wrapper {
   text-decoration: none;
@@ -1393,7 +1393,7 @@ input[type="radio"] {
     content: '\f00c'; }
   input[type="checkbox"]:focus + label:before,
   input[type="radio"]:focus + label:before {
-    box-shadow: 0 0 0 2px #21b2a6; }
+    box-shadow: 0 0 0 2px #786E66; }
 
 input[type="checkbox"] + label:before {
   border-radius: 3px; }
@@ -1476,7 +1476,7 @@ input[type="radio"] + label:before {
   .icon.style1 {
     color: #00ffcc; }
   .icon.style2 {
-    color: #00f0ff; }
+    color: #B5E0E6; }
   .icon.style3 {
     color: #76ddff; }
 
@@ -1929,7 +1929,7 @@ button,
   .wrapper.alt {
     padding: 0; }
   .wrapper.style1 {
-    background-color: #21b2a6;
+    background-color: #786E66;
     color: #c8ece9; }
     .wrapper.style1 strong, .wrapper.style1 b {
       color: #ffffff; }
@@ -1966,7 +1966,7 @@ button,
     .wrapper.style1 input[type="checkbox"]:checked + label:before,
     .wrapper.style1 input[type="radio"]:checked + label:before {
       background: #ffffff;
-      color: #21b2a6; }
+      color: #786E66; }
     .wrapper.style1 ::-webkit-input-placeholder {
       color: #a6e0db !important; }
     .wrapper.style1 :-moz-placeholder {
@@ -2230,7 +2230,7 @@ button,
   -ms-transition: -ms-transform 0.5s ease;
   transition: transform 0.5s ease;
   -webkit-overflow-scrolling: touch;
-  background: #21b2a6;
+  background: #786E66;
   color: #ffffff;
   height: 100%;
   max-width: 80%;
